@@ -1,6 +1,4 @@
 
-:
-
 📂 AI Risk & Security Assessment Resource Directory
 📝 Ready-to-Use Templates
 
@@ -18,6 +16,8 @@ https://msblogs.thesourcemediaassets.com/sites/5/2022/06/Microsoft-RAI-Impact-As
 AI RMF 1.0 Controls Checklist (AI Governance Library, 2025)
 https://www.aigl.blog/ai-rmf-1-0-controls-checklist/
 
+
+
 📘 Guides & Tutorials
 
 Conducting an AI Risk Assessment (Mayer Brown, 2024)
@@ -32,6 +32,8 @@ https://qualysec.com/ai-risk-assessment/
 NIST AI RMF Playbook (NIST, 2023)
 https://airc.nist.gov/docs/AI_RMF_Playbook.pdf
 
+
+
 📰 Professional Blogs & Articles
 
 AI in Risk Assessment and Mitigation (Cloud Security Alliance, 2024)
@@ -45,6 +47,8 @@ https://www.censinet.com/perspectives/ultimate-guide-to-ai-risk-scoring-in-healt
 
 How to Perform an AI Risk Assessment: Steps & Best Practices (Qualysec, 2023)
 https://qualysec.com/ai-risk-assessment/
+
+
 
 📑 Research Papers & Standards
 
@@ -75,6 +79,8 @@ https://www.federalregister.gov/documents/2023/11/06/2023-24426/safe-secure-and-
 FS-ISAC AI Risk Whitepapers (2023–2024)
 https://www.fsisac.com/knowledge/ai
 
+
+
 🎥 YouTube Videos & Conference Talks
 
 NIST Explainer: Introduction to AI RMF 1.0 (2023)
@@ -95,6 +101,8 @@ https://www.youtube.com/results?search_query=patrick+hall+NIST+AI+RMF
 Conference Talks on Adversarial ML (RSA, Black Hat, OWASP)
 https://www.youtube.com/results?search_query=adversarial+machine+learning+security
 
+
+
 💻 GitHub Repositories
 
 Azure/PyRIT (Azure, 2023)
@@ -114,6 +122,8 @@ https://github.com/openai/safety-gym
 
 PromptSecurity AI Risk Assessment Tool (not GitHub, web tool)
 https://www.prompt.security/products/ai-risk-assessment-tool
+
+
 
 📚 Books & Reports
 
